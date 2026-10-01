@@ -7,7 +7,7 @@ estações GNSS (RBMC/IBGE e IGS) e de efemérides (SP3/CLK) da CDDIS/NASA.
 
 Baixe o `ARX_GNSS_Setup_<versão>.exe` mais recente em
 [Releases](https://github.com/FialhoTKL/RBMCDownloader-releases/releases/latest)
-e execute. O programa é instalado em `C:\ARX` e não precisa de administrador.
+e execute. O programa é instalado em `C:\ARX\ARX GNSS` e não precisa de administrador.
 
 Como o instalador não é assinado digitalmente, na primeira instalação o Windows
 pode mostrar "O Windows protegeu o computador": clique em
